@@ -9,7 +9,7 @@
       "edition": "通用(课标)",
       "subject": "英语",
       "url": "pack_grade8_english.json",
-      "sha256": "cc7af54021f3ed0a5ff22f2bdae43cf48dafbbdc7f93285e13cabc672969617f",
+      "sha256": "07b8d0534406f1637bceec7f522a4ef91f402a763bc940f1fb898f7d6b8b3d2c",
       "count": 124
     },
     {
@@ -22,4 +22,4 @@
       "count": 60
     }
   ]
-    }
+}
