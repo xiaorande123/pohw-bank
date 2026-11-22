@@ -1,0 +1,1497 @@
+{
+  "schema": 1,
+  "id": "grade8_english",
+  "grade": 8,
+  "edition": "通用(课标)",
+  "subject": "英语",
+  "questions": [
+    {
+      "topic": "人教版八上·Unit 1 一般过去时",
+      "text": "— Where did you go on vacation?\n— I ___ to the mountains.",
+      "options": [
+        "go",
+        "went",
+        "goes",
+        "going"
+      ],
+      "answerIndex": 1,
+      "explain": "did 提示问的是过去，答句也用一般过去时，go 的过去式是 went。"
+    },
+    {
+      "topic": "人教版八上·Unit 1 复合不定代词",
+      "text": "Did you buy ___ special in the shop?",
+      "options": [
+        "something",
+        "anything",
+        "nothing",
+        "everything"
+      ],
+      "answerIndex": 1,
+      "explain": "疑问句和否定句中用 anything；something 一般用于肯定句。"
+    },
+    {
+      "topic": "人教版八上·Unit 1 主谓一致",
+      "text": "Everything ___ fine yesterday.",
+      "options": [
+        "is",
+        "was",
+        "were",
+        "are"
+      ],
+      "answerIndex": 1,
+      "explain": "everything 作主语视为第三人称单数，yesterday 提示过去时，故用 was。"
+    },
+    {
+      "topic": "人教版八上·Unit 1 一般过去时",
+      "text": "I ___ my homework last night.",
+      "options": [
+        "do",
+        "did",
+        "does",
+        "doing"
+      ],
+      "answerIndex": 1,
+      "explain": "last night 是过去时间状语，用一般过去时 did。"
+    },
+    {
+      "topic": "人教版八上·Unit 1 复合不定代词",
+      "text": "There was ___ interesting in the newspaper, so I didn't read it.",
+      "options": [
+        "something",
+        "anything",
+        "nothing",
+        "everything"
+      ],
+      "answerIndex": 2,
+      "explain": "后句说“所以我没读”，说明报纸上没有任何有趣的内容，用 nothing 表否定意义。"
+    },
+    {
+      "topic": "人教版八上·Unit 1 一般过去时",
+      "text": "We ___ a great time at the party yesterday.",
+      "options": [
+        "have",
+        "had",
+        "has",
+        "having"
+      ],
+      "answerIndex": 1,
+      "explain": "yesterday 提示过去时，have a great time 的过去式为 had a great time。"
+    },
+    {
+      "topic": "人教版八上·Unit 1 主谓一致",
+      "text": "Nobody ___ the answer. Let's ask the teacher.",
+      "options": [
+        "know",
+        "knows",
+        "knowing",
+        "known"
+      ],
+      "answerIndex": 1,
+      "explain": "nobody 作主语视为第三人称单数，一般现在时用 knows。"
+    },
+    {
+      "topic": "人教版八上·Unit 1 助动词后动词形式",
+      "text": "I didn't ___ anything in the supermarket.",
+      "options": [
+        "bought",
+        "buy",
+        "buying",
+        "buys"
+      ],
+      "answerIndex": 1,
+      "explain": "助动词 didn't 后面必须接动词原形，这是最高频的失分点。"
+    },
+    {
+      "topic": "人教版八上·Unit 1 一般疑问句",
+      "text": "___ you go to the beach last weekend?",
+      "options": [
+        "Do",
+        "Did",
+        "Are",
+        "Were"
+      ],
+      "answerIndex": 1,
+      "explain": "last weekend 是过去时间，实义动词 go 提问需借助 did。"
+    },
+    {
+      "topic": "人教版八上·Unit 1 情景交际",
+      "text": "— How was your vacation?\n— It ___ great!",
+      "options": [
+        "is",
+        "was",
+        "were",
+        "are"
+      ],
+      "answerIndex": 1,
+      "explain": "问句用 was 询问过去的情况，答句保持时态一致，用 was。"
+    },
+    {
+      "topic": "人教版八上·Unit 2 频度副词",
+      "text": "— How often do you exercise?\n— I exercise ___ a week, every Monday and Friday.",
+      "options": [
+        "once",
+        "twice",
+        "three times",
+        "four times"
+      ],
+      "answerIndex": 1,
+      "explain": "每周一和周五共两次，用 twice（两次）。"
+    },
+    {
+      "topic": "人教版八上·Unit 2 频度副词",
+      "text": "He ___ goes to bed late. He always sleeps early.",
+      "options": [
+        "always",
+        "usually",
+        "never",
+        "often"
+      ],
+      "answerIndex": 2,
+      "explain": "后句“他总是早睡”说明他从不晚睡，用 never。"
+    },
+    {
+      "topic": "人教版八上·Unit 2 频度副词",
+      "text": "My father is very busy. He ___ has time to watch TV.",
+      "options": [
+        "always",
+        "often",
+        "hardly ever",
+        "usually"
+      ],
+      "answerIndex": 2,
+      "explain": "hardly ever 意为“几乎不”，符合“很忙、没时间看电视”的语境。"
+    },
+    {
+      "topic": "人教版八上·Unit 2 疑问词辨析",
+      "text": "— ___ do you go shopping?\n— Twice a month.",
+      "options": [
+        "How long",
+        "How often",
+        "How soon",
+        "How many"
+      ],
+      "answerIndex": 1,
+      "explain": "答语 Twice a month 表示频率，提问频率用 How often。How long 问时长，How soon 问多久以后。"
+    },
+    {
+      "topic": "人教版八上·Unit 2 频度副词",
+      "text": "She ___ eats junk food because she wants to be healthy.",
+      "options": [
+        "often",
+        "always",
+        "seldom",
+        "usually"
+      ],
+      "answerIndex": 2,
+      "explain": "因为想保持健康，所以她“很少”吃垃圾食品，seldom 意为很少。"
+    },
+    {
+      "topic": "人教版八上·Unit 2 一般现在时",
+      "text": "— What do you usually do on weekends?\n— I usually ___ TV.",
+      "options": [
+        "watch",
+        "watches",
+        "watching",
+        "watched"
+      ],
+      "answerIndex": 0,
+      "explain": "usually 提示一般现在时，主语 I 用动词原形 watch。"
+    },
+    {
+      "topic": "人教版八上·Unit 2 频度副词",
+      "text": "My sister ___ goes to school by bike. She likes walking.",
+      "options": [
+        "always",
+        "usually",
+        "never",
+        "often"
+      ],
+      "answerIndex": 2,
+      "explain": "后句“她喜欢走路”说明她从不骑车上学，用 never。"
+    },
+    {
+      "topic": "人教版八上·Unit 2 数量表达",
+      "text": "— How many hours do you sleep every night?\n— ___ eight hours.",
+      "options": [
+        "About",
+        "In",
+        "On",
+        "At"
+      ],
+      "answerIndex": 0,
+      "explain": "about 意为“大约”，用来修饰数量，符合答语“大约八小时”。"
+    },
+    {
+      "topic": "人教版八上·Unit 3 比较级",
+      "text": "Tom is ___ than his brother.",
+      "options": [
+        "tall",
+        "taller",
+        "tallest",
+        "the tallest"
+      ],
+      "answerIndex": 1,
+      "explain": "than 是比较级的标志词，单音节形容词 tall 加 -er 变 taller。"
+    },
+    {
+      "topic": "人教版八上·Unit 3 比较级",
+      "text": "This book is ___ interesting than that one.",
+      "options": [
+        "much",
+        "more",
+        "most",
+        "very"
+      ],
+      "answerIndex": 1,
+      "explain": "interesting 是多音节形容词，比较级用 more interesting，不能加 -er。"
+    },
+    {
+      "topic": "人教版八上·Unit 3 比较级",
+      "text": "My hair is ___ than yours.",
+      "options": [
+        "long",
+        "longer",
+        "longest",
+        "the longest"
+      ],
+      "answerIndex": 1,
+      "explain": "than 提示比较级，long 变 longer。"
+    },
+    {
+      "topic": "人教版八上·Unit 3 最高级",
+      "text": "She is the ___ student in her class.",
+      "options": [
+        "tall",
+        "taller",
+        "tallest",
+        "more tall"
+      ],
+      "answerIndex": 2,
+      "explain": "in her class 表示范围，用最高级 the tallest。"
+    },
+    {
+      "topic": "人教版八上·Unit 3 最高级",
+      "text": "This is ___ film I have ever seen.",
+      "options": [
+        "good",
+        "better",
+        "the best",
+        "best"
+      ],
+      "answerIndex": 2,
+      "explain": "I have ever seen 表示“我曾经看过的所有电影中”，用最高级且必须加 the。"
+    },
+    {
+      "topic": "人教版八上·Unit 3 比较级",
+      "text": "Li Ming runs ___ than any other student in our class.",
+      "options": [
+        "fast",
+        "faster",
+        "fastest",
+        "the fastest"
+      ],
+      "answerIndex": 1,
+      "explain": "than 提示比较级，修饰动词用副词比较级 faster。"
+    },
+    {
+      "topic": "人教版八上·Unit 3 比较级",
+      "text": "Which is ___, the sun or the moon?",
+      "options": [
+        "big",
+        "bigger",
+        "biggest",
+        "the biggest"
+      ],
+      "answerIndex": 1,
+      "explain": "两者（太阳和月亮）比较用比较级，不用最高级。这是高频陷阱。"
+    },
+    {
+      "topic": "人教版八上·Unit 3 比较级",
+      "text": "My English is ___ than before.",
+      "options": [
+        "good",
+        "better",
+        "best",
+        "well"
+      ],
+      "answerIndex": 1,
+      "explain": "good 的比较级是不规则形式 better，than before 提示比较级。"
+    },
+    {
+      "topic": "人教版八上·Unit 3 比较级",
+      "text": "He is ___ outgoing than his sister.",
+      "options": [
+        "more",
+        "most",
+        "much",
+        "very"
+      ],
+      "answerIndex": 0,
+      "explain": "outgoing 是多音节形容词，比较级用 more outgoing。"
+    },
+    {
+      "topic": "人教版八上·Unit 3 比较级句型",
+      "text": "The more you read, ___ you will be.",
+      "options": [
+        "the clever",
+        "the cleverer",
+        "cleverer",
+        "more clever"
+      ],
+      "answerIndex": 1,
+      "explain": "“the + 比较级, the + 比较级”表示“越……越……”，后半句也要带 the。"
+    },
+    {
+      "topic": "人教版八上·Unit 4 最高级",
+      "text": "This is ___ theater in our city.",
+      "options": [
+        "good",
+        "better",
+        "the best",
+        "best"
+      ],
+      "answerIndex": 2,
+      "explain": "in our city 表示范围，用最高级 the best。"
+    },
+    {
+      "topic": "人教版八上·Unit 4 最高级",
+      "text": "Of all the students, he studies ___.",
+      "options": [
+        "hard",
+        "harder",
+        "hardest",
+        "the hardest"
+      ],
+      "answerIndex": 2,
+      "explain": "of all 表示范围，用副词最高级。副词最高级前的 the 可以省略，故 hardest 正确。"
+    },
+    {
+      "topic": "人教版八上·Unit 4 最高级",
+      "text": "Which is ___ city in China?",
+      "options": [
+        "big",
+        "bigger",
+        "the biggest",
+        "biggest"
+      ],
+      "answerIndex": 2,
+      "explain": "in China 表示范围（三者以上），用最高级且加 the。"
+    },
+    {
+      "topic": "人教版八上·Unit 4 最高级",
+      "text": "This restaurant has ___ service in town.",
+      "options": [
+        "good",
+        "better",
+        "the best",
+        "best"
+      ],
+      "answerIndex": 2,
+      "explain": "in town 表示范围，用最高级 the best 修饰 service。"
+    },
+    {
+      "topic": "人教版八上·Unit 4 最高级句型",
+      "text": "Shanghai is one of ___ cities in China.",
+      "options": [
+        "big",
+        "bigger",
+        "the biggest",
+        "biggest"
+      ],
+      "answerIndex": 2,
+      "explain": "one of the + 最高级 + 名词复数，表示“最……的之一”，the 不能省。"
+    },
+    {
+      "topic": "人教版八上·Unit 4 比较级",
+      "text": "The radio is ___ than the TV.",
+      "options": [
+        "cheap",
+        "cheaper",
+        "cheapest",
+        "the cheapest"
+      ],
+      "answerIndex": 1,
+      "explain": "than 提示比较级，cheap 变 cheaper。"
+    },
+    {
+      "topic": "人教版八上·Unit 4 最高级",
+      "text": "— What's ___ movie theater near here?\n— Sun Cinema. It has the biggest screens.",
+      "options": [
+        "good",
+        "better",
+        "the best",
+        "best"
+      ],
+      "answerIndex": 2,
+      "explain": "答语用 the biggest 描述，问句也应用最高级 the best。"
+    },
+    {
+      "topic": "人教版八上·Unit 4 比较级",
+      "text": "My hometown is ___ than before.",
+      "options": [
+        "beautiful",
+        "more beautiful",
+        "most beautiful",
+        "the most beautiful"
+      ],
+      "answerIndex": 1,
+      "explain": "beautiful 是多音节词，比较级用 more beautiful，than 是标志词。"
+    },
+    {
+      "topic": "人教版八上·Unit 5 动名词",
+      "text": "I don't mind ___ soap operas.",
+      "options": [
+        "watch",
+        "to watch",
+        "watching",
+        "watched"
+      ],
+      "answerIndex": 2,
+      "explain": "mind 后面接动名词，mind doing sth 意为“介意做某事”。"
+    },
+    {
+      "topic": "人教版八上·Unit 5 动名词",
+      "text": "What do you think of ___ game shows?",
+      "options": [
+        "watch",
+        "to watch",
+        "watching",
+        "watched"
+      ],
+      "answerIndex": 2,
+      "explain": "of 是介词，介词后面接动名词，故用 watching。"
+    },
+    {
+      "topic": "人教版八上·Unit 5 动名词",
+      "text": "I can't stand ___ soap operas.",
+      "options": [
+        "watch",
+        "to watch",
+        "watching",
+        "watched"
+      ],
+      "answerIndex": 2,
+      "explain": "can't stand doing sth 意为“无法忍受做某事”，固定搭配动名词。"
+    },
+    {
+      "topic": "人教版八上·Unit 5 动词不定式",
+      "text": "She expects ___ a famous singer.",
+      "options": [
+        "become",
+        "to become",
+        "becoming",
+        "became"
+      ],
+      "answerIndex": 1,
+      "explain": "expect to do sth 意为“期望做某事”，接动词不定式。"
+    },
+    {
+      "topic": "人教版八上·Unit 5 动名词",
+      "text": "Would you mind ___ the window?",
+      "options": [
+        "open",
+        "to open",
+        "opening",
+        "opened"
+      ],
+      "answerIndex": 2,
+      "explain": "Would you mind doing sth? 是请求别人做事的礼貌句型，接动名词。"
+    },
+    {
+      "topic": "人教版八上·Unit 5 动词不定式",
+      "text": "I hope ___ you soon.",
+      "options": [
+        "see",
+        "to see",
+        "seeing",
+        "saw"
+      ],
+      "answerIndex": 1,
+      "explain": "hope to do sth 接不定式；注意 hope 不能接 sb to do。"
+    },
+    {
+      "topic": "人教版八上·Unit 6 be going to",
+      "text": "I ___ a doctor when I grow up.",
+      "options": [
+        "am",
+        "am going to be",
+        "be",
+        "going to be"
+      ],
+      "answerIndex": 1,
+      "explain": "be going to do 表示计划或打算，be 动词是 am，后接 be a doctor。"
+    },
+    {
+      "topic": "人教版八上·Unit 6 be going to",
+      "text": "What ___ you going to do this weekend?",
+      "options": [
+        "do",
+        "are",
+        "is",
+        "will"
+      ],
+      "answerIndex": 1,
+      "explain": "be going to 结构变疑问句时把 be 提前，主语 you 搭配 are。"
+    },
+    {
+      "topic": "人教版八上·Unit 6 be going to",
+      "text": "She ___ visit her grandparents next week.",
+      "options": [
+        "is going to",
+        "going to",
+        "go to",
+        "goes to"
+      ],
+      "answerIndex": 0,
+      "explain": "be going to 不能省略 be，主语 She 搭配 is。"
+    },
+    {
+      "topic": "人教版八上·Unit 6 there be 句型",
+      "text": "There ___ a meeting tomorrow.",
+      "options": [
+        "is going to have",
+        "is going to be",
+        "will have",
+        "are going to be"
+      ],
+      "answerIndex": 1,
+      "explain": "there be 句型的将来时是 there is going to be 或 there will be，绝不能用 there have。"
+    },
+    {
+      "topic": "人教版八上·Unit 6 疑问词",
+      "text": "— ___ are you going to be a writer?\n— I'm going to practice writing every day.",
+      "options": [
+        "What",
+        "How",
+        "Why",
+        "When"
+      ],
+      "answerIndex": 1,
+      "explain": "答语说的是方式（每天练习写作），提问方式用 How。"
+    },
+    {
+      "topic": "人教版八上·Unit 6 动词短语",
+      "text": "He is going to ___ a new hobby.",
+      "options": [
+        "take up",
+        "take off",
+        "take care",
+        "take out"
+      ],
+      "answerIndex": 0,
+      "explain": "take up 意为“开始从事（某项爱好）”，符合语境。"
+    },
+    {
+      "topic": "人教版八上·Unit 7 will",
+      "text": "People ___ live on the moon in 100 years.",
+      "options": [
+        "will",
+        "are",
+        "do",
+        "did"
+      ],
+      "answerIndex": 0,
+      "explain": "in 100 years 表示将来，用 will + 动词原形。"
+    },
+    {
+      "topic": "人教版八上·Unit 7 there be 句型",
+      "text": "There will ___ less pollution in the future.",
+      "options": [
+        "have",
+        "be",
+        "has",
+        "is"
+      ],
+      "answerIndex": 1,
+      "explain": "there be 的将来时是 there will be，will 后面接动词原形 be，不能用 have。"
+    },
+    {
+      "topic": "人教版八上·Unit 7 简略回答",
+      "text": "— Will there be more trees?\n— Yes, ___.",
+      "options": [
+        "there will",
+        "there won't",
+        "it will",
+        "they will"
+      ],
+      "answerIndex": 0,
+      "explain": "there be 句型的简略回答用 there will / there won't。"
+    },
+    {
+      "topic": "人教版八上·Unit 7 will",
+      "text": "I think robots ___ help us do housework.",
+      "options": [
+        "will",
+        "are",
+        "do",
+        "did"
+      ],
+      "answerIndex": 0,
+      "explain": "表示对未来的预测，用 will + 动词原形。"
+    },
+    {
+      "topic": "人教版八上·Unit 7 一般将来时疑问句",
+      "text": "___ people will have robots in their homes?",
+      "options": [
+        "Do",
+        "Will",
+        "Are",
+        "Did"
+      ],
+      "answerIndex": 1,
+      "explain": "对将来情况提问，把 will 提到句首。"
+    },
+    {
+      "topic": "人教版八上·Unit 8 祈使句",
+      "text": "___ the bananas and put them in the blender.",
+      "options": [
+        "Peel",
+        "Peels",
+        "Peeling",
+        "Peeled"
+      ],
+      "answerIndex": 0,
+      "explain": "祈使句以动词原形开头，表示指令。"
+    },
+    {
+      "topic": "人教版八上·Unit 8 可数与不可数",
+      "text": "How ___ yogurt do you need?",
+      "options": [
+        "many",
+        "much",
+        "long",
+        "often"
+      ],
+      "answerIndex": 1,
+      "explain": "yogurt 是不可数名词，问数量用 how much。"
+    },
+    {
+      "topic": "人教版八上·Unit 8 可数与不可数",
+      "text": "How ___ bananas do you need?",
+      "options": [
+        "many",
+        "much",
+        "long",
+        "often"
+      ],
+      "answerIndex": 0,
+      "explain": "banana 是可数名词（复数 bananas），问数量用 how many。"
+    },
+    {
+      "topic": "人教版八上·Unit 8 否定祈使句",
+      "text": "___ turn on the blender before you put in the fruit.",
+      "options": [
+        "Not",
+        "Don't",
+        "Doesn't",
+        "Didn't"
+      ],
+      "answerIndex": 1,
+      "explain": "否定祈使句用 Don't + 动词原形。"
+    },
+    {
+      "topic": "人教版八上·Unit 8 名词复数",
+      "text": "We need two ___ of milk.",
+      "options": [
+        "cup",
+        "cups",
+        "cup's",
+        "cupes"
+      ],
+      "answerIndex": 1,
+      "explain": "two 后面接可数名词复数，cup 的复数是 cups。"
+    },
+    {
+      "topic": "人教版八上·Unit 9 情态动词",
+      "text": "— Can you come to my party?\n— Sorry, I ___. I have to study.",
+      "options": [
+        "can",
+        "can't",
+        "mustn't",
+        "needn't"
+      ],
+      "answerIndex": 1,
+      "explain": "答语是 Sorry 并说明要学习，说明不能去，用 can't。"
+    },
+    {
+      "topic": "人教版八上·Unit 9 情态动词",
+      "text": "You ___ go out at night. It's dangerous.",
+      "options": [
+        "can",
+        "mustn't",
+        "needn't",
+        "may"
+      ],
+      "answerIndex": 1,
+      "explain": "mustn't 表示“禁止、不许”，语气最强，符合“晚上出去危险”的警告。"
+    },
+    {
+      "topic": "人教版八上·Unit 10 if 条件句",
+      "text": "If it ___ tomorrow, we will stay at home.",
+      "options": [
+        "rain",
+        "rains",
+        "will rain",
+        "rained"
+      ],
+      "answerIndex": 1,
+      "explain": "if 引导的条件状语从句遵循“主将从现”：主句用一般将来时，从句用一般现在时，主语 it 用 rains。"
+    },
+    {
+      "topic": "人教版八上·Unit 10 if 条件句",
+      "text": "I will call you if I ___ time.",
+      "options": [
+        "have",
+        "will have",
+        "had",
+        "having"
+      ],
+      "answerIndex": 0,
+      "explain": "主句用 will，从句必须用一般现在时，故填 have。这是最常考的一条。"
+    },
+    {
+      "topic": "人教版八上·Unit 10 if 条件句",
+      "text": "If you ___ hard, you will pass the exam.",
+      "options": [
+        "study",
+        "studies",
+        "will study",
+        "studied"
+      ],
+      "answerIndex": 0,
+      "explain": "主句 will pass，从句用一般现在时，主语 you 用动词原形 study。"
+    },
+    {
+      "topic": "人教版八上·Unit 10 if 条件句",
+      "text": "We won't go out if it ___.",
+      "options": [
+        "rains",
+        "will rain",
+        "rained",
+        "raining"
+      ],
+      "answerIndex": 0,
+      "explain": "主句 won't go 表将来，从句用一般现在时 rains。"
+    },
+    {
+      "topic": "八上词汇·Unit 1",
+      "text": "单词 vacation 的意思是？",
+      "options": [
+        "假期",
+        "工作",
+        "学校",
+        "医院"
+      ],
+      "answerIndex": 0,
+      "explain": "vacation 意为假期、休假，on vacation 表示在度假。"
+    },
+    {
+      "topic": "八上词汇·Unit 2",
+      "text": "短语 hardly ever 的意思是？",
+      "options": [
+        "经常",
+        "几乎不",
+        "总是",
+        "有时"
+      ],
+      "answerIndex": 1,
+      "explain": "hardly ever 意为几乎不，表示频率极低，接近 never 但不等于 never。"
+    },
+    {
+      "topic": "八上词汇·Unit 3",
+      "text": "单词 outgoing 的意思是？",
+      "options": [
+        "内向的",
+        "外向的",
+        "安静的",
+        "懒惰的"
+      ],
+      "answerIndex": 1,
+      "explain": "outgoing 意为外向的、爱交际的，是描述性格的高频词，反义词是 quiet/shy。"
+    },
+    {
+      "topic": "八上词汇·Unit 3",
+      "text": "单词 talented 的意思是？",
+      "options": [
+        "有天赋的",
+        "笨拙的",
+        "努力的",
+        "幸运的"
+      ],
+      "answerIndex": 0,
+      "explain": "talented 意为有才能的、有天赋的，来自名词 talent（天赋）。"
+    },
+    {
+      "topic": "八上词汇·Unit 4",
+      "text": "单词 comfortable 的意思是？",
+      "options": [
+        "拥挤的",
+        "舒适的",
+        "昂贵的",
+        "破旧的"
+      ],
+      "answerIndex": 1,
+      "explain": "comfortable 意为舒适的，常用来形容座位、房间、衣服。"
+    },
+    {
+      "topic": "八上词汇·Unit 4",
+      "text": "单词 creative 的意思是？",
+      "options": [
+        "有创造力的",
+        "保守的",
+        "严肃的",
+        "粗心的"
+      ],
+      "answerIndex": 0,
+      "explain": "creative 意为有创造力的，来自动词 create（创造）。"
+    },
+    {
+      "topic": "八上词汇·Unit 7",
+      "text": "单词 pollution 的意思是？",
+      "options": [
+        "人口",
+        "污染",
+        "交通",
+        "噪音"
+      ],
+      "answerIndex": 1,
+      "explain": "pollution 意为污染，是不可数名词，来自动词 pollute。"
+    },
+    {
+      "topic": "八上词汇·Unit 7",
+      "text": "单词 astronaut 的意思是？",
+      "options": [
+        "宇航员",
+        "飞行员",
+        "工程师",
+        "科学家"
+      ],
+      "answerIndex": 0,
+      "explain": "astronaut 意为宇航员，pilot 才是飞行员，别混。"
+    },
+    {
+      "topic": "八上词汇·Unit 7",
+      "text": "单词 dangerous 的意思是？",
+      "options": [
+        "安全的",
+        "危险的",
+        "有趣的",
+        "无聊的"
+      ],
+      "answerIndex": 1,
+      "explain": "dangerous 意为危险的，名词是 danger（危险）。"
+    },
+    {
+      "topic": "八上词汇·Unit 8",
+      "text": "单词 traditional 的意思是？",
+      "options": [
+        "现代的",
+        "传统的",
+        "奇怪的",
+        "简单的"
+      ],
+      "answerIndex": 1,
+      "explain": "traditional 意为传统的，名词是 tradition（传统）。"
+    },
+    {
+      "topic": "八上词汇·Unit 9",
+      "text": "单词 available 的意思是？",
+      "options": [
+        "忙碌的",
+        "有空的、可获得的",
+        "疲倦的",
+        "生病的"
+      ],
+      "answerIndex": 1,
+      "explain": "available 意为可获得的、有空的，Can you come? 的接受回答常说 I'm available。"
+    },
+    {
+      "topic": "八上词汇·Unit 9",
+      "text": "单词 disappointed 的意思是？",
+      "options": [
+        "兴奋的",
+        "失望的",
+        "感激的",
+        "害怕的"
+      ],
+      "answerIndex": 1,
+      "explain": "disappointed 意为失望的，disappointing 意为令人失望的（形容事物）。"
+    },
+    {
+      "topic": "八上词汇·Unit 10",
+      "text": "单词 organize 的意思是？",
+      "options": [
+        "组织",
+        "参加",
+        "取消",
+        "拒绝"
+      ],
+      "answerIndex": 0,
+      "explain": "organize 意为组织、筹办，名词是 organization（组织）。"
+    },
+    {
+      "topic": "八上词汇·Unit 10",
+      "text": "单词 advice 的意思是？",
+      "options": [
+        "建议",
+        "命令",
+        "请求",
+        "警告"
+      ],
+      "answerIndex": 0,
+      "explain": "advice 意为建议，是不可数名词，一条建议说 a piece of advice。"
+    },
+    {
+      "topic": "八上词汇·Unit 10",
+      "text": "单词 careless 的意思是？",
+      "options": [
+        "仔细的",
+        "粗心的",
+        "勇敢的",
+        "耐心的"
+      ],
+      "answerIndex": 1,
+      "explain": "careless 意为粗心的，care + less（否定后缀）；careful 才是仔细的。"
+    },
+    {
+      "topic": "八上词汇·Unit 10",
+      "text": "单词 experience 的意思是？",
+      "options": [
+        "实验",
+        "经验、经历",
+        "结果",
+        "原因"
+      ],
+      "answerIndex": 1,
+      "explain": "experience 作不可数名词是经验，作可数名词是经历。"
+    },
+    {
+      "topic": "八上词汇·Unit 7",
+      "text": "单词 probably 的意思是？",
+      "options": [
+        "一定",
+        "很可能",
+        "绝不",
+        "很少"
+      ],
+      "answerIndex": 1,
+      "explain": "probably 意为很可能，可能性比 maybe 高，比 certainly 低。"
+    },
+    {
+      "topic": "八上词汇·Unit 2",
+      "text": "连词 although 的意思是？",
+      "options": [
+        "因为",
+        "虽然",
+        "所以",
+        "而且"
+      ],
+      "answerIndex": 1,
+      "explain": "although 意为虽然、尽管，引导让步状语从句，不能和 but 连用。"
+    },
+    {
+      "topic": "八上词汇·Unit 6",
+      "text": "单词 improve 的意思是？",
+      "options": [
+        "提高、改善",
+        "降低",
+        "保持",
+        "放弃"
+      ],
+      "answerIndex": 0,
+      "explain": "improve 意为改进、提高，名词是 improvement。"
+    },
+    {
+      "topic": "八上词汇·Unit 6",
+      "text": "单词 promise 的意思是？",
+      "options": [
+        "拒绝",
+        "承诺",
+        "怀疑",
+        "抱怨"
+      ],
+      "answerIndex": 1,
+      "explain": "promise 意为承诺，常用 make a promise（许下承诺）和 keep a promise（遵守承诺）。"
+    },
+    {
+      "topic": "八上词汇·Unit 5",
+      "text": "单词 meaningless 的意思是？",
+      "options": [
+        "有意义的",
+        "无意义的",
+        "重要的",
+        "有趣的"
+      ],
+      "answerIndex": 1,
+      "explain": "meaningless 意为无意义的，-less 是否定后缀；meaningful 才是有意义的。"
+    },
+    {
+      "topic": "八上词汇·Unit 2",
+      "text": "短语 junk food 的意思是？",
+      "options": [
+        "健康食品",
+        "垃圾食品",
+        "快餐",
+        "零食"
+      ],
+      "answerIndex": 1,
+      "explain": "junk food 意为垃圾食品，是不可数名词。"
+    },
+    {
+      "topic": "八上词汇·Unit 3",
+      "text": "单词 competition 的意思是？",
+      "options": [
+        "比赛、竞争",
+        "合作",
+        "表演",
+        "训练"
+      ],
+      "answerIndex": 0,
+      "explain": "competition 意为比赛、竞争，动词是 compete。"
+    },
+    {
+      "topic": "八上词汇·Unit 9",
+      "text": "单词 reply 的意思是？",
+      "options": [
+        "提问",
+        "回复",
+        "拒绝",
+        "邀请"
+      ],
+      "answerIndex": 1,
+      "explain": "reply 意为回复、答复，reply to 表示回复某人或某物。"
+    },
+    {
+      "topic": "八上词汇·Unit 8",
+      "text": "单词 pour 的意思是？",
+      "options": [
+        "倒、灌",
+        "削皮",
+        "搅拌",
+        "加热"
+      ],
+      "answerIndex": 0,
+      "explain": "pour 意为倒、灌，做奶昔时 pour the milk into the blender。peel 才是削皮。"
+    },
+    {
+      "topic": "词形变化·care",
+      "text": "care（关心）的形容词形式是？",
+      "options": [
+        "careful",
+        "carely",
+        "careness",
+        "careing"
+      ],
+      "answerIndex": 0,
+      "explain": "care + ful = careful（仔细的、关心的）；加 -less 则是 careless（粗心的）。"
+    },
+    {
+      "topic": "词形变化·care",
+      "text": "care 的否定形容词（粗心的）是？",
+      "options": [
+        "careful",
+        "careless",
+        "caring",
+        "cared"
+      ],
+      "answerIndex": 1,
+      "explain": "-less 表示“没有”，careless 即粗心的。这类后缀题是词汇考查重点。"
+    },
+    {
+      "topic": "固定搭配·be different from",
+      "text": "My bag is different ___ yours.",
+      "options": [
+        "from",
+        "to",
+        "with",
+        "of"
+      ],
+      "answerIndex": 0,
+      "explain": "be different from 意为与……不同，是固定搭配，介词必须是 from。"
+    },
+    {
+      "topic": "固定搭配·be good at",
+      "text": "He is good ___ playing basketball.",
+      "options": [
+        "at",
+        "in",
+        "for",
+        "with"
+      ],
+      "answerIndex": 0,
+      "explain": "be good at 意为擅长，at 是介词，后面接动名词 playing。"
+    },
+    {
+      "topic": "同义替换",
+      "text": "hardly ever 最接近的意思是？",
+      "options": [
+        "always",
+        "almost never",
+        "usually",
+        "often"
+      ],
+      "answerIndex": 1,
+      "explain": "hardly ever 意为几乎不，最接近 almost never，这是同义替换高频考点。"
+    },
+    {
+      "topic": "同义替换",
+      "text": "be similar to 的意思是？",
+      "options": [
+        "be different from",
+        "be like",
+        "be better than",
+        "be far from"
+      ],
+      "answerIndex": 1,
+      "explain": "be similar to 意为与……相似，最接近 be like。"
+    },
+    {
+      "topic": "固定搭配·look forward to",
+      "text": "I look forward to ___ you soon.",
+      "options": [
+        "see",
+        "seeing",
+        "saw",
+        "sees"
+      ],
+      "answerIndex": 1,
+      "explain": "look forward to 中的 to 是介词，后面必须接动名词，这是最容易错的一题。"
+    },
+    {
+      "topic": "固定搭配·decide to do",
+      "text": "She decided ___ a doctor.",
+      "options": [
+        "to be",
+        "being",
+        "be",
+        "was"
+      ],
+      "answerIndex": 0,
+      "explain": "decide to do sth 意为决定做某事，接动词不定式。"
+    },
+    {
+      "topic": "固定搭配·be afraid of",
+      "text": "The little girl is afraid ___ dogs.",
+      "options": [
+        "of",
+        "to",
+        "at",
+        "for"
+      ],
+      "answerIndex": 0,
+      "explain": "be afraid of sth 意为害怕某物；be afraid to do 则是害怕做某事。"
+    },
+    {
+      "topic": "固定搭配·agree with",
+      "text": "I agree ___ you on this point.",
+      "options": [
+        "with",
+        "to",
+        "on",
+        "for"
+      ],
+      "answerIndex": 0,
+      "explain": "agree with sb 意为同意某人；agree to 后接计划或建议。"
+    },
+    {
+      "topic": "形容词辨析·-ed 与 -ing",
+      "text": "The movie is so ___ that I fell asleep.",
+      "options": [
+        "bored",
+        "boring",
+        "bore",
+        "boringly"
+      ],
+      "answerIndex": 1,
+      "explain": "-ing 形容词表示“令人……的”，修饰事物；-ed 形容词表示“感到……的”，修饰人。电影令人困倦，用 boring。"
+    },
+    {
+      "topic": "形容词辨析·-ed 与 -ing",
+      "text": "I am ___ in this book.",
+      "options": [
+        "interesting",
+        "interested",
+        "interest",
+        "interests"
+      ],
+      "answerIndex": 1,
+      "explain": "be interested in 意为对……感兴趣，人作主语用 -ed 形式。"
+    },
+    {
+      "topic": "名词复数",
+      "text": "tomato 的复数形式是？",
+      "options": [
+        "tomatos",
+        "tomatoes",
+        "tomato",
+        "tomatoies"
+      ],
+      "answerIndex": 1,
+      "explain": "以 o 结尾的部分名词加 -es，如 tomato→tomatoes、potato→potatoes。"
+    },
+    {
+      "topic": "名词复数",
+      "text": "child 的复数形式是？",
+      "options": [
+        "childs",
+        "children",
+        "childes",
+        "childrens"
+      ],
+      "answerIndex": 1,
+      "explain": "child 是不规则复数，复数为 children，不能再加 s。"
+    },
+    {
+      "topic": "可数与不可数",
+      "text": "下列名词中属于不可数名词的是？",
+      "options": [
+        "apple",
+        "water",
+        "banana",
+        "book"
+      ],
+      "answerIndex": 1,
+      "explain": "water 是不可数名词，不能直接加 s，要用 a glass of water 这类量词表达。"
+    },
+    {
+      "topic": "语法·一般现在时三单",
+      "text": "He ___ to school by bus every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "went"
+      ],
+      "answerIndex": 1,
+      "explain": "every day 提示一般现在时，主语 He 是第三人称单数，动词加 -es。"
+    },
+    {
+      "topic": "语法·现在进行时",
+      "text": "Look! The children ___ football on the playground.",
+      "options": [
+        "play",
+        "plays",
+        "are playing",
+        "played"
+      ],
+      "answerIndex": 2,
+      "explain": "Look! 提示动作正在发生，用现在进行时 be + doing，主语复数用 are。"
+    },
+    {
+      "topic": "语法·一般过去时",
+      "text": "She ___ TV last night.",
+      "options": [
+        "watch",
+        "watches",
+        "watched",
+        "watching"
+      ],
+      "answerIndex": 2,
+      "explain": "last night 是过去时间状语，用一般过去时 watched。"
+    },
+    {
+      "topic": "语法·现在进行时否定",
+      "text": "He ___ sleeping. He is reading.",
+      "options": [
+        "isn't",
+        "aren't",
+        "don't",
+        "doesn't"
+      ],
+      "answerIndex": 0,
+      "explain": "现在进行时的否定是 be + not + doing，主语 He 用 isn't。"
+    },
+    {
+      "topic": "语法·一般过去时疑问句",
+      "text": "___ you see him yesterday?",
+      "options": [
+        "Do",
+        "Did",
+        "Are",
+        "Were"
+      ],
+      "answerIndex": 1,
+      "explain": "yesterday 提示过去时，实义动词 see 提问需用助动词 Did。"
+    },
+    {
+      "topic": "语法·冠词",
+      "text": "I have ___ apple and ___ banana.",
+      "options": [
+        "a, an",
+        "an, a",
+        "a, a",
+        "an, an"
+      ],
+      "answerIndex": 1,
+      "explain": "apple 以元音音素开头用 an，banana 以辅音音素开头用 a。"
+    },
+    {
+      "topic": "语法·冠词",
+      "text": "He plays ___ piano very well.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "不填"
+      ],
+      "answerIndex": 2,
+      "explain": "演奏乐器前要加定冠词 the，如 play the piano；但球类运动前不加，如 play basketball。"
+    },
+    {
+      "topic": "语法·介词",
+      "text": "I was born ___ 2009.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answerIndex": 0,
+      "explain": "年份、月份、季节前用 in；具体某天用 on；具体时刻用 at。"
+    },
+    {
+      "topic": "语法·介词",
+      "text": "My birthday is ___ May 5th.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answerIndex": 1,
+      "explain": "具体到某一天（含日期）用 on，这是 in/on/at 的经典辨析。"
+    },
+    {
+      "topic": "语法·介词",
+      "text": "We will have a party ___ 7 o'clock.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "answerIndex": 2,
+      "explain": "具体时刻前用 at，如 at 7 o'clock。"
+    },
+    {
+      "topic": "语法·物主代词",
+      "text": "This is ___ book. （我的）",
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "answerIndex": 2,
+      "explain": "修饰名词要用形容词性物主代词 my；mine 是名词性物主代词，后面不能接名词。"
+    },
+    {
+      "topic": "语法·物主代词",
+      "text": "The book is ___. （我的）",
+      "options": [
+        "my",
+        "mine",
+        "me",
+        "I"
+      ],
+      "answerIndex": 1,
+      "explain": "句末单独使用、后面不接名词时，用名词性物主代词 mine。"
+    },
+    {
+      "topic": "语法·反身代词",
+      "text": "He hurt ___ when he fell off the bike.",
+      "options": [
+        "him",
+        "his",
+        "himself",
+        "he"
+      ],
+      "answerIndex": 2,
+      "explain": "主语和宾语是同一人时用反身代词，he 对应 himself。"
+    },
+    {
+      "topic": "语法·连词",
+      "text": "___ it was raining, we still went out.",
+      "options": [
+        "Because",
+        "Although",
+        "So",
+        "If"
+      ],
+      "answerIndex": 1,
+      "explain": "前后是让步关系（虽然下雨，还是出去了），用 Although。注意 Although 不能与 but 连用。"
+    },
+    {
+      "topic": "语法·连词",
+      "text": "It was raining, ___ we stayed at home.",
+      "options": [
+        "so",
+        "although",
+        "but",
+        "because"
+      ],
+      "answerIndex": 0,
+      "explain": "前因后果，用 so 连接结果；because 引导原因，语序相反。"
+    },
+    {
+      "topic": "语法·不定代词",
+      "text": "___ of the students has a dictionary.",
+      "options": [
+        "Each",
+        "All",
+        "Both",
+        "Some"
+      ],
+      "answerIndex": 0,
+      "explain": "谓语是 has（单数），说明主语视为单数，Each of 符合；All/Both/Some of 后接复数谓语 have。"
+    },
+    {
+      "topic": "语法·频率副词位置",
+      "text": "He ___ late for school.",
+      "options": [
+        "is never",
+        "never is",
+        "never be",
+        "be never"
+      ],
+      "answerIndex": 0,
+      "explain": "频率副词放在 be 动词之后、实义动词之前，故 is never 正确。"
+    },
+    {
+      "topic": "语法·频率副词位置",
+      "text": "She ___ goes shopping on Sundays.",
+      "options": [
+        "often",
+        "is often",
+        "often is",
+        "be often"
+      ],
+      "answerIndex": 0,
+      "explain": "频率副词放在实义动词 goes 之前，直接用 often goes。"
+    },
+    {
+      "topic": "语法·比较级",
+      "text": "This bag is ___ than that one.",
+      "options": [
+        "heavy",
+        "heavier",
+        "heaviest",
+        "more heavy"
+      ],
+      "answerIndex": 1,
+      "explain": "heavy 是辅音字母+y 结尾，变比较级要改 y 为 i 再加 -er，即 heavier。"
+    },
+    {
+      "topic": "语法·最高级",
+      "text": "He is ___ boy in his class.",
+      "options": [
+        "tall",
+        "taller",
+        "the tallest",
+        "tallest"
+      ],
+      "answerIndex": 2,
+      "explain": "in his class 表示范围，用最高级且必须加 the。"
+    }
+  ]
+}
