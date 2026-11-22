@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "version": "2026-11-22",
+  "updatedAt": "2026-11-22",
+  "packs": [
+    {
+      "id": "grade8_english",
+      "grade": 8,
+      "edition": "通用(课标)",
+      "subject": "英语",
+      "url": "pack_grade8_english.json",
+      "sha256": "cc7af54021f3ed0a5ff22f2bdae43cf48dafbbdc7f93285e13cabc672969617f",
+      "count": 124
+    },
+    {
+      "id": "grade8_math",
+      "grade": 8,
+      "edition": "通用(课标)",
+      "subject": "数学",
+      "url": "pack_grade8_math.json",
+      "sha256": "07294ad310b87cc71a62da282a0072bb523069752f61391f8900907127778a7f",
+      "count": 60
+    }
+  ]
+    }
