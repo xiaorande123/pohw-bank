@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-11-22b",
+  "version": "2026-11-22c",
   "updatedAt": "2026-11-22",
   "packs": [
     {
@@ -9,8 +9,8 @@
       "edition": "通用(课标)",
       "subject": "英语",
       "url": "pack_grade8_english.json",
-      "sha256": "e2520270c9451bc7e3a8bd5ba7b6fad08ce6d09a56fb44ad874ba03da24b631e",
-      "count": 300
+      "sha256": "af5647bced467d6418a99ca0ad2b304db77027c22e239dbdd1643c30b9b6084c",
+      "count": 724
     },
     {
       "id": "grade8_math",
